@@ -1,0 +1,41 @@
+{
+  "generator-ngx-rocket": {
+    "version": "9.1.0",
+    "props": {
+      "location": "path",
+      "strict": false,
+      "skipInstall": false,
+      "skipQuickstart": false,
+      "initGit": true,
+      "usePrefix": true,
+      "appName": "bcm kpi",
+      "target": [
+        "web"
+      ],
+      "pwa": true,
+      "ui": "material",
+      "layout": "simple",
+      "auth": true,
+      "lazy": true,
+      "angulartics": false,
+      "languages": [
+        "de-DE",
+        "en-US",
+        "fr-FR"
+      ],
+      "tools": [
+        "prettier",
+        "jest"
+      ],
+      "utility": [
+        "lodash",
+        "moment"
+      ],
+      "deploy": "none",
+      "projectName": "bcm-kpi",
+      "packageManager": "npm",
+      "mobile": [],
+      "desktop": []
+    }
+  }
+}
